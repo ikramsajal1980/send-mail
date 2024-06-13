@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8eeCBw+CYXpOWXzEPe5YaG3atvdqv016ukXvuZ0RenzCMNS87zMx9Kr4B0Q8zgwPksBkneeC1EsBOEK3R4syQ==",
+  "dgSpecHash": "YfJbxPsqAfMhZNsPuffcTonlaucDTSDhzcI0Mk4us9pNpgqLPCi+JM5WBBzngd83BOQkoNIvC0vuISdnOutg8g==",
   "success": true,
-  "projectFilePath": "F:\\linux command\\SendMail\\SendMail\\SendMail.csproj",
+  "projectFilePath": "D:\\SendMail\\SendMail\\SendMail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\epplus.core\\1.5.4\\epplus.core.1.5.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

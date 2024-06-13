@@ -4529,11 +4529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\linux command\\SendMail\\SendMail\\SendMail.csproj",
+      "projectUniqueName": "D:\\SendMail\\SendMail\\SendMail.csproj",
       "projectName": "SendMail",
-      "projectPath": "F:\\linux command\\SendMail\\SendMail\\SendMail.csproj",
+      "projectPath": "D:\\SendMail\\SendMail\\SendMail.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\linux command\\SendMail\\SendMail\\obj\\",
+      "outputPath": "D:\\SendMail\\SendMail\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
