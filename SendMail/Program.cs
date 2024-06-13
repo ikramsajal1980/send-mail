@@ -35,6 +35,8 @@ namespace YourNamespace
                     OracleCommand cmd = new OracleCommand(query, conn);
                     OracleDataAdapter oda = new OracleDataAdapter(cmd);
                     oda.Fill(dt);
+                    //asdfasdf
+
                 }
 
                 var attachment = GetAttachment(dt);
